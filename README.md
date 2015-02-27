@@ -1,5 +1,5 @@
 # gcloud-play-sample
-> Sample Play framework scala backend using [gcloud-node](//github.com/GoogleCloudPlatform/gcloud-node).
+> Sample Play framework scala backend using Google App Engine managed VM with custom runtime.
 
 ## Prerequisites
 
